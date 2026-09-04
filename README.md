@@ -1,13 +1,15 @@
 # Sermon transcript readers
 
-Self-contained HTML readers for three teaching series. Each one has chapter chunking, a
+Self-contained HTML readers for four teaching series. Each one has chapter chunking, a
 save-your-place bookmark, highlights, a detected-scripture index, full-text search and dark mode.
 
 | Series | Reader | No-JavaScript version |
 |---|---|---|
 | **Spiritual Growth** — Joshua Heward-Mills | [open](spiritual-growth/) | [offline.html](spiritual-growth/offline.html) |
 | **All Out** — Dag Heward-Mills (Sevenoaks, 2002) | [open](all-out/) | [offline.html](all-out/offline.html) |
-| **What It Means To Become A Shepherd** — Dag Heward-Mills | [open](shepherd/) | [offline.html](shepherd/offline.html) |
+| **What It Means To Become A Shepherd** — Dag Heward-Mills | [open](shepherd/) | [offline.html](shepherd/offline.html) || **How You Can Preach Salvation** — Dag Heward-Mills (2009) | [open](preach-salvation/) | [offline.html](preach-salvation/offline.html) |
+
+Two of that series' ten messages have no captions on YouTube and are not transcribed.
 
 The `offline.html` builds use no JavaScript at all, so they work in any viewer — including the
 iOS Files preview, which does not run scripts.
